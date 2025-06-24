@@ -26,8 +26,8 @@ This project is a voice-based metro ticket booking system designed to enhance ac
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/metro-ticket-booking.git
-   cd metro-ticket-booking
+   git clone <repo>
+   cd to the cloned directory
    ```
 2. **Install Python Dependencies**:
    - Ensure Python 3.9 is installed.
