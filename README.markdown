@@ -81,10 +81,9 @@ This project is a voice-based metro ticket booking system designed to enhance ac
    - Choose recording duration (e.g., 5 seconds).
    - Click “Record” to capture voice input (e.g., “Book a ticket from Connaught Place to Karol Bagh”).
    - View transcription, translation, intent, and response in the UI.
-   - Hear the response via text-to-speech (Bulbul).
 3. **Example Interaction**:
    - Input (Hindi): “Dilli Haat se Rajiv Chowk tak ek ticket book karo.”
-   - Output: Transcription → Translation (to English) → Intent (booking) → Response (e.g., “Ticket booked!”) → Spoken response in Hindi.
+   - Output: Transcription → Translation (to English) → Intent (booking) → Response (e.g., “Ticket booked!”).
 
 ## Project Structure
 
